@@ -9,6 +9,10 @@
 # Hola soy Julio. ¡Mucho gusto! 👋🏼
 
 Estoy realizando una transición laboral hacia QA Engineer.
+Tengo habilidades en pruebas manuales y automatizadas. ✍🏼🤖
+Entiendo la imortancia de los detalles y estoy comprometido con la calidad y satisfaccion del cliente. 
+Sé y me gusta trabajar en equipo. 🤝🏼
+Me gusta aprender y buscar maneras de mejorar en mi trabajo. 🧠
 
 ## Experiencia Actual
 Trabajo como auxiliar administrativo contable donde me encargo de realizar base de datos de clientes y la creación de facturas.
