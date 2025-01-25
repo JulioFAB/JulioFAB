@@ -2,7 +2,9 @@
   <img decoding="async" src="https://github.com/JulioFAB/JulioFAB/blob/main/Dise%C3%B1o%20sin%20t%C3%ADtulo.png" width="800"/>
 </div>
 
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julio-aguilar-f1796b/)
 
+  
 
 # Hola soy Julio. ¡Mucho gusto! 👋🏼
 
