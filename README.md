@@ -1,16 +1,27 @@
-## Hi there 👋
+<div id="header" align="center">
+  <img decoding="async" src="https://github.com/JulioFAB/JulioFAB/blob/main/Dise%C3%B1o%20sin%20t%C3%ADtulo.png" width="800"/>
+</div>
 
-<!--
-**JulioFAB/JulioFAB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hola soy Julio. ¡Mucho gusto! 👋🏼
+
+Estoy realizando una transición laboral hacia QA Engineer.
+
+## Experiencia Actual
+Trabajo como auxiliar administrativo contable donde me encargo de realizar base de datos de clientes y la creación de facturas.
+
+## Formación
+Terminé el programa de QA ENGINEER de TripleTen. 🤓
+
+## Habilidades
+- Aprendo rápido y googleo muy bien. 😎
+- Estoy familiarizado con:
+  - SQL
+  - JIRA
+  - SELENIUM
+  - PYTHON
+  - ANDROID STUDIO 💪🏼
+
+## Filosofía de Trabajo
+Me gusta hacer mi trabajo fácil y eficiente. 😉
