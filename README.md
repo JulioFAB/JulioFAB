@@ -9,9 +9,13 @@
 # Hola soy Julio. ¡Mucho gusto! 👋🏼
 
 Estoy realizando una transición laboral hacia QA Engineer.
+
 Tengo habilidades en pruebas manuales y automatizadas. ✍🏼🤖
+
 Entiendo la imortancia de los detalles y estoy comprometido con la calidad y satisfaccion del cliente. 
+
 Sé y me gusta trabajar en equipo. 🤝🏼
+
 Me gusta aprender y buscar maneras de mejorar en mi trabajo. 🧠
 
 ## Experiencia Actual
@@ -22,12 +26,12 @@ Terminé el programa de QA ENGINEER de TripleTen. 🤓
 
 ## Habilidades
 - Aprendo rápido y googleo muy bien. 😎
-- Estoy familiarizado con:
+- Estoy familiarizado con💪🏼:
   - SQL
   - JIRA
   - SELENIUM
   - PYTHON
-  - ANDROID STUDIO 💪🏼
+  - ANDROID STUDIO 
 
 ## Filosofía de Trabajo
 Me gusta hacer mi trabajo fácil y eficiente. 😉
